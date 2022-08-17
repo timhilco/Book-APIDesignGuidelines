@@ -1,0 +1,5 @@
+asciidoctor-pdf APIDesignGuidelinesAndStandards_V1.adoc
+asciidoctor-pdf -a pdf-themesdir=resources -a pdf-theme=basic APIDesignGuidelinesAndStandards_V1.adoc
+asciidoctor-pdf -a pdf-themesdir=resources -a pdf-theme=default APIDesignGuidelinesAndStandards_V1.adoc
+asciidoctor-pdf -a pdf-themesdir=resources -a pdf-theme=custom APIDesignGuidelinesAndStandards_V1.adoc
+asciidoctor-pdf -a pdf-themesdir=resources -a pdf-theme=custom APIDesignGuidelines_RealWorldExample_HRBenefits_V1.adoc
